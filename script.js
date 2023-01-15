@@ -2,6 +2,7 @@ songsToPlay = [
     "Grace Kelly",
     "I want it That Way",
     "Come to Eileen",
+    "Beggin",
     "Groove Is in the Heart",
     "Careless Whisper",
 ];
